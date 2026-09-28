@@ -1,0 +1,36 @@
+-------------------------------------------------
+FastCopy(ver2.11) start at 2025/11/02 21:06:48
+
+<Source>  E:\
+<DestDir> D:\
+<Command> Diff (Size/Date)
+
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-1114097746-644396022-3360468031-1001\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-1166510004-1509208605-1272527808-1001\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-1818823118-2907905474-1640352103-1000\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-1954937053-611110346-1587544381-1000\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-2288597686-1215774390-1245481246-1001\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-2333737765-1301596560-2571689177-1001\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-256453723-275758489-669572591-1001\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-3019122763-2008908057-3485600346-1001\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-3019122763-2008908057-3485600346-1002\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-3036963722-598778380-3983933445-1000\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-3099634845-2885793918-2268212240-500\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-3518591426-3076794023-3946602940-1001\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-4026143783-3039625182-463932801-1001\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-541397690-3886314947-4294478860-1004\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-606541658-1831262878-1467245239-1002\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-828661161-2594747558-3363890986-1001\*
+FindFirstFile(Accès refusé.5) : E:\$RECYCLE.BIN\S-1-5-21-873437429-2709989809-4140667033-500\*
+WriteFile(Le fichier spécifié est introuvable.2) : D:\Image PC\win7 32bit\MyBackup.tibx
+ Aborted by User
+
+TotalRead = 59116.3 MB
+TotalWrite = 59044.3 MB
+TotalFiles = 4546 (216)
+TotalTime= 35456.75 sec
+TransRate= 1.67 MB/s
+FileRate  = 0.13 files/s
+
+Result : (ErrFiles : 3 / ErrDirs : 17)
+
